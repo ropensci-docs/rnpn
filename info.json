@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "614d0735bb7acc1838743197d9c191f79521fad6",
+    "author": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "time": "2020-11-30 16:08:31",
+    "files": 251,
+    "merge": true,
+    "message": "Merge pull request #23 from usa-npn/master\n\nIntegrate updated version of the package."
+  },
+  "remote": "https://github.com/ropensci/rnpn",
+  "pkg": "rnpn"
+}
